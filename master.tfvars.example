@@ -1,0 +1,4 @@
+account_id          = "<Operations AWS Account ID>"
+aws_default_region  = "<AWS Region>"
+profile             = "<AWS Profile>"
+role_arn            = "<Role ARN for Terraform>"
